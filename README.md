@@ -8,7 +8,7 @@
 
 ## 📌 About Me  
 
-I'm a Backend Developer and Informatics Engineering student with experience in developing robust and scalable backend systems and RESTful APIs. My primary focus is on **Node.js (TypeScript & JavaScript) with Express**, using **hexagonal architecture**, as well as **Java with Spring Boot** for enterprise applications. I have experience working with **PostgreSQL** and **MySQL**, ensuring efficient database design and query optimization.
+I'm a Backend Developer and Computer Engineering student with experience in developing robust and scalable backend systems and RESTful APIs. My primary focus is on **Node.js (TypeScript & JavaScript) with Express**, using **hexagonal architecture**, as well as **Java with Spring Boot** for enterprise applications. I have experience working with **PostgreSQL** and **MySQL**, ensuring efficient database design and query optimization.
 
 🔹 **Technical Interests:** Software architecture, system design, database optimization, and backend performance.  
 🔹 **Experience:** Backend development for business applications, building RESTful APIs with Node.js and Java.  
