@@ -41,11 +41,11 @@ Backend Engineer enfocado en llevar verticales Odoo, APIs asíncronas y automati
 
 #### ERP / Automatización
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Odoo_Official_Logo.png" height="40" alt="Odoo" />
+  <img src="https://cdn.simpleicons.org/odoo/714B67" height="40" alt="Odoo" />
   <img width="10"/>
-  <img src="https://n8n.io/favicon.svg" height="40" alt="n8n" />
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="40" alt="n8n" />
   <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/celery/celery-original.svg" height="40" alt="Celery" />
+  <img src="https://cdn.simpleicons.org/celery/37814A" height="40" alt="Celery" />
 </p>
 
 #### Datos
