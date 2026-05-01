@@ -1,7 +1,7 @@
 <h1 align="center">Giuliano Hillebrand</h1>
 
 <p align="center">
-  <em>Backend & Automation Engineer · Odoo · Python · AI Integrations</em>
+  <em>Backend & Automation Developer · Odoo · Python · AI Integrations</em>
 </p>
 
 <p align="center">Posadas, Misiones, Argentina</p>
@@ -10,7 +10,7 @@
 
 ## Sobre mí
 
-Backend Engineer enfocado en llevar verticales Odoo, APIs asíncronas y automatización con IA a producción. Trabajo con Python (FastAPI, Odoo, Celery), TypeScript (Express hexagonal) y orquestación con n8n. Estudiante de Ingeniería en Informática (UGD).
+Backend Developer enfocado en llevar verticales Odoo, APIs asíncronas y automatización con IA a producción. Trabajo con Python (FastAPI, Odoo, Celery), TypeScript (Express, Node.js) y orquestación con n8n. Estudiante de Ingeniería en Informática (UGD).
 
 ---
 
