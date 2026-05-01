@@ -77,8 +77,8 @@ Backend Engineer enfocado en llevar verticales Odoo, APIs asíncronas y automati
 ### Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=giulianoh92&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=giulianoh92&layout=compact&theme=dracula&langs_count=5" height="150" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=giulianoh92&theme=dracula" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=giulianoh92&theme=dracula" alt="Most Used Languages"/>
 </p>
 
 ---
