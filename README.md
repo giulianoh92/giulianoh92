@@ -1,18 +1,16 @@
 <h1 align="center">Giuliano Hillebrand</h1>
 
 <p align="center">
-  <em>Backend Developer | Computer Engineering Student</em>
+  <em>Backend & Automation Engineer · Odoo · Python · AI Integrations</em>
 </p>
+
+<p align="center">Posadas, Misiones, Argentina</p>
 
 ---
 
-## 📌 About Me  
+## Sobre mí
 
-I'm a Backend Developer and Computer Engineering student with experience in developing robust and scalable backend systems and RESTful APIs. My primary focus is on **Node.js (TypeScript & JavaScript) with Express**, using **hexagonal architecture**, as well as **Java with Spring Boot** for enterprise applications. I have experience working with **PostgreSQL** and **MySQL**, ensuring efficient database design and query optimization.
-
-🔹 **Technical Interests:** Software architecture, system design, database optimization, and backend performance.  
-🔹 **Experience:** Backend development for business applications, building RESTful APIs with Node.js and Java.  
-🔹 **Currently Learning:** Deployment strategies, containerization with Docker, and best practices for scalable backend systems.
+Backend Engineer enfocado en llevar verticales Odoo, APIs asíncronas y automatización con IA a producción. Trabajo con Python (FastAPI, Odoo, Celery), TypeScript (Express hexagonal) y orquestación con n8n. Estudiante de Ingeniería en Informática (UGD).
 
 ---
 
@@ -22,52 +20,61 @@ I'm a Backend Developer and Computer Engineering student with experience in deve
 
 ---
 
-### 💻 Tech Stack  
+### Stack
 
-#### **Backend & Languages**
+#### Backend
 <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" />
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" />
+  <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
   <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
 </p>
 
-#### **Databases**
+#### ERP / Automatización
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Odoo_Official_Logo.png" height="40" alt="Odoo" />
   <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
+  <img src="https://n8n.io/favicon.svg" height="40" alt="n8n" />
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/celery/celery-original.svg" height="40" alt="Celery" />
 </p>
 
-#### **Tools & OS**
+#### Datos
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
   <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis" />
   <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
   <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="Supabase" />
 </p>
 
-
+#### DevOps
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="GitLab" />
+</p>
 
 ---
 
-### 📊 GitHub Stats  
+### Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=giulianoh92&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" height="150" alt="GitHub Stats"/>
@@ -76,7 +83,7 @@ I'm a Backend Developer and Computer Engineering student with experience in deve
 
 ---
 
-### 📬 Let's Connect!  
+### Contacto
 
 <p align="left">
   <a href="https://www.linkedin.com/in/giulianohillebrand/" target="_blank">
@@ -84,11 +91,5 @@ I'm a Backend Developer and Computer Engineering student with experience in deve
   </a>
   <a href="mailto:giulianohillebrand@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.youtube.com/@giulianoh92" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/giulianoh92" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
