@@ -10,7 +10,7 @@
 
 ## Sobre mí
 
-Backend Developer enfocado en llevar verticales Odoo, APIs asíncronas y automatización con IA a producción. Trabajo con Python (FastAPI, Odoo, Celery), TypeScript (Express, Node.js) y orquestación con n8n. Estudiante de Ingeniería en Informática (UGD).
+Backend Developer enfocado en verticales Odoo, APIs REST y automatización con IA. Trabajo con Python (FastAPI, Odoo, Celery), TypeScript (Express, Node.js) y orquestación con n8n. Estudiante de Ingeniería en Informática (UGD).
 
 ---
 
